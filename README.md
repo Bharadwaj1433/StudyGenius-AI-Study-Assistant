@@ -273,3 +273,6 @@ This project is developed for educational and research purposes.
 ## 🌟 Vision
 
 > "One PDF. Multiple Learning Experiences. Smarter Learning Through Artificial Intelligence."
+
+## 🌟 Live Here
+https://69e243fe4f7d832529dfb208--vermillion-lokum-69010c.netlify.app/
